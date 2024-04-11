@@ -15,3 +15,9 @@ The dataset which I used contains 414 entries with detailed information on real 
 
 **House price of unit area**: The target variable, represents the house price per unit area.   
 
+**Steps followed to complete the project:** 
+1. Gathered relevant data, Cleaned and prepared the collected data by handling missing values, removing outliers.
+2. Created new features and transformed existing ones to capture important information that can influence real estate prices.
+3. Explore and visualize the data to gain insights into its distribution, correlations, and patterns.
+4. Chose appropriate machine learning algorithm or predictive model for the task.
+5. Trained the selected model on the training data, optimizing its parameters to make accurate predictions.
